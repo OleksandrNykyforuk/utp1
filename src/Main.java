@@ -2,10 +2,6 @@
 
 // OK, ja dodam 'Adder' , a s##### doda 'Subtractor'.
 
-
-// dziala
-
-
 public class Main {
     public static void main(String[] args) {
         Adder adder = new Adder();
