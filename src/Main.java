@@ -3,7 +3,7 @@
 // OK, ja dodam 'Adder' , a s##### doda 'Subtractor'.
 
 
-// home check
+// barbos
 
 
 public class Main {
